@@ -1,4 +1,4 @@
-# login_signup
+# Login & Sign Up
  Login and Sign up Page
 
 Link to it here: https://LightSama394.github.io/login_signup
